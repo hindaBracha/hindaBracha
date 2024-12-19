@@ -1,5 +1,3 @@
----
-
 # 👋 **Hi, I’m Hinda Bracha Fromer**  
 👩‍💻 **Full-Stack Developer | Mobile App Creator | Tech Enthusiast | Problem Solver**  
 
@@ -17,6 +15,8 @@ I see every challenge as an opportunity to grow and every line of code as a chan
 - **Continuous Learning:** Exploring cutting-edge technologies like **Flutter, AI integration, and cloud infrastructure** to stay ahead of the curve.  
 - **Collaboration:** Working with like-minded professionals to bring ambitious ideas to life.  
 - **Problem Solving:** Turning complex challenges into intuitive, user-friendly solutions.  
+- **Arduino & Hardware Projects:** If you’re wondering what gift would make me happy—an **Arduino kit** and an **Apple Mac** would be a perfect fit! I love working with hardware, especially combining it with software to create cool systems.  
+- **Teaching & Mentoring:** I also enjoy **teaching C and Assembly**—sharing knowledge and helping others grow in their technical journeys is something I’m truly passionate about.  
 
 ---
 
@@ -49,4 +49,3 @@ I believe that **technology is art**—it’s about creating harmony between log
 
 ![Hinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hindaBracha&show_icons=true&theme=tokyonight)  
 
----

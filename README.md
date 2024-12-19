@@ -21,7 +21,7 @@ I see every challenge as an opportunity to grow and every line of code as a chan
 ---
 
 ### 🛠️ **Tech Stack & Skills**  
-- **Backend:** Python 🐍 | C# ⚙️ | Node.js 🌐 | Django 🦄 | .NET Core  
+- **Backend:** Python 🐍 | Java ☕ | C# ⚙️ | Node.js 🌐 | Django 🦄 | .NET Core  
 - **Frontend:** React ⚛️ | Angular 🚀 | HTML5 | CSS | JavaScript  
 - **Mobile Development:** Kotlin 📱 | Flutter 🚀 | Android Studio  
 - **Databases:** SQL Server 🗄️ | SQLite | MongoDB 🌿  

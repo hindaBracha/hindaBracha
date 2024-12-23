@@ -17,6 +17,7 @@ I see every challenge as an opportunity to grow and every line of code as a chan
 - **Problem Solving:** Turning complex challenges into intuitive, user-friendly solutions.  
 - **Arduino & Hardware Projects:** If you’re wondering what gift would make me happy—an **Arduino kit** and an **Apple Mac** would be a perfect fit! I love working with hardware, especially combining it with software to create cool systems.  
 - **Teaching & Mentoring:** I also enjoy **teaching C and Assembly**—sharing knowledge and helping others grow in their technical journeys is something I’m truly passionate about.  
+- **Digital Whisper:** If you’re wondering what my breakfast looks like—it’s **Digital Whisper**. This monthly magazine fuels my mornings with enough inspiration to last the entire month, diving deep into security, reverse engineering, and cutting-edge tech.  
 
 ---
 
